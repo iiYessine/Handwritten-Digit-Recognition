@@ -58,7 +58,7 @@ Key features:
 ---
 ## ✏️ Example of Handwritten Digit
 
-![Handwritten digit example](digit/digit_example.png)
+![digit_example](digit/digit_example.png)
 
 ---
 
